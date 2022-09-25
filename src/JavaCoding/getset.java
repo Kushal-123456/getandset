@@ -9,7 +9,7 @@ public class getset {
 	
 	
 	                      //camelcase madhy 
-	public int getRollnumber() 
+	public int getRollnumber()  
 	{
 		return rollnumber;
 	}
